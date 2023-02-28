@@ -1,1 +1,1 @@
-FROM gcr.io/cdvisor/cdvisor:0.45.1
+FROM gcr.io/cdvisor/cdvisor:0.45.0
